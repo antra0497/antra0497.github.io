@@ -209,7 +209,7 @@ nav ul,nav ol {
 	list-style:none;
 	list-style-image: none;
 }
-/* ==========================================================================Embedded content========================================================================== */
+/* ==========================================================================Embedded content==================================================== ====================== */
 img {
 	border:0;
 	-ms-interpolation-mode:bicubic;
@@ -871,8 +871,21 @@ img.grayscale:hover {
 /* ==========================================================================CTA========================================================================== */
 .spacer-cta {
 	background-color: #E04343;
-	padding:70px 0;
+	padding:50px 0;
 }
+.spacer-cta:hover{
+   
+    transition: all 500ms ease-in-out;
+    
+    -webkit-transition:all 500ms ease-in-out;
+    -moz-transition:all 500ms ease-in-out;
+    -o-transition:all 500ms ease-in-out;
+
+    transform:translate(0,-10px);
+    -webkit-transform:translate(0,-10px);
+    -ms-transform:translate(0,-10px)
+}
+
 .outline-btn {
 	display:inline-block;
 	padding:25px 40px;
@@ -986,7 +999,7 @@ ul.social-buttons li:last-child {
 }
 .contact .form-control {
 	margin-bottom:20px;
-	border:1px solid #cbcbcb;
+	border:1px solid #d5d5c3;
 	height:45px;
 }
 .contact textarea.form-control {
@@ -998,7 +1011,7 @@ footer a {
 	color:#a1a9b0;
 }
 footer {
-	background-color:#f3f5f8;
+	background-color:#d5d5c3;
 	padding:40px 0 30px;
 }
 footer p {
