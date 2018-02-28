@@ -1,7 +1,5 @@
 /*========================================================================*/
 
-
-
 /* ///////////////////////////////////////////////////////////////////// 
 // 03 - Preloader
 /////////////////////////////////////////////////////////////////////*/
@@ -16,9 +14,6 @@
     overflow:visible;
     background: #000 url('../img/preloaders.gif') no-repeat center center;
 }
-
-
-
 
 
 /* ==========================================================================
@@ -58,7 +53,7 @@ h2::after {
 	margin:20px auto;
 }
 h6 {
-	font-size:15px;
+	font-size:40px;
 	color:#8c8c8c;
 	text-transform:uppercase;
 	font-weight:bold;
@@ -283,7 +278,7 @@ table {
 }
 /* ==========================================================================Section Styles========================================================================== */
 .section-padding {
-	padding:90px 0 100px
+	padding:40px 0 40px
 }
 .dark-bg {
 	background:#f3f5f8;
@@ -1011,7 +1006,7 @@ footer a {
 	color:#a1a9b0;
 }
 footer {
-	background-color:#d5d5c3;
+	background-color:#e6e6e6;
 	padding:40px 0 30px;
 }
 footer p {
