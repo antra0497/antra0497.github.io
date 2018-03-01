@@ -53,7 +53,7 @@ h2::after {
 	margin:20px auto;
 }
 h6 {
-	font-size:40px;
+	font-size: 25px;
 	color:#8c8c8c;
 	text-transform:uppercase;
 	font-weight:bold;
@@ -62,8 +62,8 @@ h6::after {
 	content:" ";
 	border:solid 1px #CCCCCC;
 	display:block;
-	width:65px;
-	margin-top: 20px;
+	width:370px;
+	margin-top: 10px;
 }
 /* ==========================================================================HTML5 display definitions========================================================================== */
 article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary {
@@ -130,7 +130,7 @@ h5 {
 	margin:1.67em 0;
 }
 h6 {
-	font-size: 12px;
+	font-size: 19px;
 	margin:2.33em 0;
 }
 abbr[title] {
@@ -186,7 +186,7 @@ sub {
 	bottom:-0.25em;
 }
 p {
-	font-size: 14px;
+	font-size: 15px;
 	font-weight:100;
 	line-height: 28px!important;
 }
