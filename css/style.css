@@ -566,8 +566,9 @@ h1.arrow span {
     color: #E04343;
 }
 /* ==========================================================================About========================================================================== */
+
 .about-image {
-	height:400px;
+	height:310px;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
 	-o-background-size:cover;
@@ -596,7 +597,7 @@ h1.arrow span {
   border-color: rgba(0, 0, 0, 0);
 }
 .about-text {
-	padding:20px 50px 25px 50px;
+	padding:20px 0px 0px 30px;
 }
 .about-text h1 {
 	text-transform:uppercase;
@@ -609,7 +610,9 @@ h1.arrow span {
 .color-bg h1.arrow {
     color: #FFF;
 }
+
 /* ==========================================================================Services========================================================================== */
+
 .services {
 	margin-top:80px;
 	margin-bottom:40px;
