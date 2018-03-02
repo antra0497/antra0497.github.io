@@ -131,7 +131,7 @@ h5 {
 }
 h6 {
 	font-size: 19px;
-	margin:2.33em 0;
+	margin:20px 0;
 }
 abbr[title] {
 	border-bottom:1px dotted;
@@ -614,8 +614,8 @@ h1.arrow span {
 /* ==========================================================================Services========================================================================== */
 
 .services {
-	margin-top:80px;
-	margin-bottom:40px;
+	margin-top:20px;
+	margin-bottom:20px;
 }
 .services .icon {
 	position:relative;
@@ -690,7 +690,7 @@ i.respons {
 }
 /* ==========================================================================Portfolio========================================================================== */
 .swag {
-	padding:75px 0;
+	padding:55px 0;
 }
 .swag h1 {
 	text-transform:uppercase;
