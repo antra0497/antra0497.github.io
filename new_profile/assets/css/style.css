@@ -652,6 +652,13 @@ section .container {
   border: 2px solid #18d26e;
 }
 
+.resume .resume-list-co {
+    padding-top: 9px;
+    font-size: 14px;
+    text-transform:none;
+    font-weight: 400;
+}
+
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
